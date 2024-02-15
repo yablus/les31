@@ -1,4 +1,4 @@
-package test
+package repository
 
 import "github.com/yablus/les31/internal/models"
 
