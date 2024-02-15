@@ -8,8 +8,8 @@ import (
 	"strconv"
 
 	"github.com/go-chi/chi"
-	"github.com/yablus/les30/internal/models"
-	"github.com/yablus/les30/internal/usecase"
+	"github.com/yablus/les31/internal/models"
+	"github.com/yablus/les31/internal/usecase"
 )
 
 type UserStorage interface {
